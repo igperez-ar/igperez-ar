@@ -1,4 +1,4 @@
-# Hey, I'm Ignacio Perez! 👋
+# Hey, I'm Ignacio! 👋
 
 I'm a software engineer who loves building impactful, user-focused applications from the ground up. With a solid background in Systems and hands-on experience in full stack and mobile development, I thrive on turning ideas into polished products.
 
