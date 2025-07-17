@@ -16,22 +16,30 @@ I'm a software engineer who loves building impactful, user-focused applications 
 <table>
   <tr>
     <td valign="top" align="left">
-<h3>Web & UI Development</h3>
-<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,materialui,styledcomponents,jquery,sass,less,svg&perline=9" alt="Backend & DevOps" /></a>
+      <h3>Web & UI Development</h3>
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,materialui,styledcomponents,jquery,sass,less,svg&perline=9" alt="Web & UI Development: html, css, js, ts, react, nextjs, redux, bootstrap, materialui, styledcomponents, jquery, sass, less, svg" />
+      </a>
     </td>
     <td valign="top" align="left">
-<h3>Mobile & Cross-Platform</h3>
-<a href="#"><img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,kotlin,swift&perline=9" alt="Backend & DevOps" /></a>
+      <h3>Mobile & Cross-Platform</h3>
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,kotlin,swift&perline=9" alt="Mobile & Cross-Platform: react, flutter, dart, androidstudio, kotlin, swift" />
+      </a>
     </td>
   </tr>
   <tr>
     <td valign="top" align="left">
-<h3>Backend & DevOps</h3>
-<a href="#"><img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs,express,fastapi,django,py,mysql,postgres,sqlite,graphql,apollo,prisma,supabase,docker,nginx,bash&perline=9" alt="Backend & DevOps" /></a>
+      <h3>Backend & DevOps</h3>
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs,express,fastapi,django,py,mysql,postgres,sqlite,graphql,apollo,prisma,supabase,docker,nginx,bash&perline=9" alt="Backend & DevOps: laravel, php, nodejs, nestjs, express, fastapi, django, py, mysql, postgres, sqlite, graphql, apollo, prisma, supabase, docker, nginx, bash" />
+      </a>
     </td>
     <td valign="top" align="left">
-<h3>Tools & Platforms</h3>
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,notion,obsidian,devto,stackoverflow,jest,latex,qt,regex,md,pnpm,yarn,npm&perline=9" alt="Backend & DevOps" /></a>
+      <h3>Tools & Platforms</h3>
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,notion,obsidian,devto,stackoverflow,jest,latex,qt,regex,md,pnpm,yarn,npm&perline=9" alt="Tools & Platforms: git, github, postman, figma, vscode, notion, obsidian, devto, stackoverflow, jest, latex, qt, regex, md, pnpm, yarn, npm" />
+      </a>
     </td>
   </tr>
 </table>
